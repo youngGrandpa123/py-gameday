@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-from BeautifulSoup import BeautifulSoup
+from bs4 import BeautifulSoup
 from lib import game, atbats, hitchart, players, store, CONSTANTS, Fetcher
 import argparse
 from time import strptime
